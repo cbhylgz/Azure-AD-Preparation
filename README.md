@@ -6,7 +6,7 @@
 
 
 <h2>Description</h2>
-In this tutorial will show you how to Active Directory works through the use of two VMs (Virtual Machines), with one running a Windows server to be used as the DC (Domain Controller), and the other being the 'client' that joins said domain.
+In this tutorial I will show you how to Active Directory works through the use of two VMs (Virtual Machines), with one running a Windows server to be used as the DC (Domain Controller), and the other being the 'client' that joins said domain.
 <br/>
 <br />
 
